@@ -3,8 +3,12 @@
 
 <h2> Hello World ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
 How to reach me : </br>
+<a href="https://www.linkedin.com/in/shivika-sagar-89b23b166/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
+</a>
+<a href="shivikasagar@gmail.com">
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
 
 
 
