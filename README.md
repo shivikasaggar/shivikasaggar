@@ -1,3 +1,5 @@
+<img align='center' src="https://raw.githubusercontent.com/shivikasaggar/shivikasaggar/master/SHIVIKA SAGGAR.png" width="400" height="400" style="margin-left:200px" >
+
 ### Hello World ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 How to reach me : </br>
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </br>
