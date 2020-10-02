@@ -1,7 +1,7 @@
 
 <img align='center' src="https://github.com/shivikasaggar/shivikasaggar/blob/main/SHIVIKA%20SAGGAR.png" width="1000" height="450" >
 
-<h2> Hello World ! </h2> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h2> Hello World ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
 How to reach me : </br>
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
